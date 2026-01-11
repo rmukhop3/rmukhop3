@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**rmukhop3/rmukhop3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+# 💫 About Me:
 About Me 👋<br><br>🔭 I’m currently working on<br>Building end-to-end systems for course catalog normalization and validation, including web interfaces, AWS Lambda services, and browser extensions to streamline academic data workflows.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects in MLOps, AI-powered developer tools, data pipelines, and LLM-integrated applications, especially those with real-world impact in education or productivity.<br><br>🤝 I’m looking for help with<br>Designing robust LLM orchestration patterns, improving system reliability around async workflows, and scaling AI-assisted data validation systems.<br><br>🌱 I’m currently learning<br>Model Context Protocol (MCP) servers, advanced tool calling, and building more modular, agent-driven AI systems.<br><br>💬 Ask me about<br>MLOps, AWS (Lambda, S3, serverless architectures), OpenSearch, data normalization, browser extensions, and integrating LLMs into production systems.<br><br>⚡ Fun fact<br>I’m a huge soccer fan ⚽—whether it’s watching a match or debating tactics, I’m always up for it.
 
 
