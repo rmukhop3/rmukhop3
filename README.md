@@ -1,5 +1,5 @@
-# 💫 About Me:
-About Me 👋<br><br>🔭 I’m currently working on<br>Building end-to-end systems for course catalog normalization and validation, including web interfaces, AWS Lambda services, and browser extensions to streamline academic data workflows.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects in MLOps, AI-powered developer tools, data pipelines, and LLM-integrated applications, especially those with real-world impact in education or productivity.<br><br>🤝 I’m looking for help with<br>Designing robust LLM orchestration patterns, improving system reliability around async workflows, and scaling AI-assisted data validation systems.<br><br>🌱 I’m currently learning<br>Model Context Protocol (MCP) servers, advanced tool calling, and building more modular, agent-driven AI systems.<br><br>💬 Ask me about<br>MLOps, AWS (Lambda, S3, serverless architectures), OpenSearch, data normalization, browser extensions, and integrating LLMs into production systems.<br><br>⚡ Fun fact<br>I’m a huge soccer fan ⚽—whether it’s watching a match or debating tactics, I’m always up for it.
+# About Me 👋
+🔭 I’m currently working on<br>Building end-to-end systems for course catalog normalization and validation, including web interfaces, AWS Lambda services, and browser extensions to streamline academic data workflows.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects in MLOps, AI-powered developer tools, data pipelines, and LLM-integrated applications, especially those with real-world impact in education or productivity.<br><br>🤝 I’m looking for help with<br>Designing robust LLM orchestration patterns, improving system reliability around async workflows, and scaling AI-assisted data validation systems.<br><br>🌱 I’m currently learning<br>Model Context Protocol (MCP) servers, advanced tool calling, and building more modular, agent-driven AI systems.<br><br>💬 Ask me about<br>MLOps, AWS (Lambda, S3, serverless architectures), OpenSearch, data normalization, browser extensions, and integrating LLMs into production systems.<br><br>⚡ Fun fact<br>I’m a huge soccer fan ⚽—whether it’s watching a match or debating tactics, I’m always up for it.
 
 
 ## 🌐 Socials:
@@ -11,11 +11,3 @@ About Me 👋<br><br>🔭 I’m currently working on<br>Building end-to-end syst
 ![](https://github-readme-stats.vercel.app/api?username=rmukhop3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rmukhop3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmukhop3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rmukhop3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=rmukhop3&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
